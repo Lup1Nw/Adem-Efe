@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
-
 *{
   box-sizing: border-box;
   margin: 0;
@@ -158,11 +156,4 @@ a{
 
 .bcard__footer-icon:last-of-type{
     margin-right: 0;
-}
-
-@media (max-height: 750px) {
-  .main {
-    /* do something.. */
-    height: auto;
-  }
 }
